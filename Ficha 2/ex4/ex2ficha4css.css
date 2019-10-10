@@ -1,0 +1,43 @@
+body {
+    width:750px;
+    margin:auto;
+}
+header {
+    background-color:green ;
+    text-align: center;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+nav a {
+    background-color:green;
+    color: white;
+    border: none;
+    display: inline-block;
+    width: 200px;
+    text-decoration: none;
+    text-align: center;
+    font-family: monospace;
+    font-size: 1.2em;
+    margin: 0 20px;
+    height: 40px;
+    line-height: 40px;
+}
+nav {
+    margin-top: 20px;
+    text-align: center;
+}
+nav a:hover {
+    background-color: rgba(0,128,0,0.3);
+}
+main div {
+    float: left;
+    width: 80%;
+}
+main aside {
+    float:right;
+    width:20%;
+}
+h2 {
+    text-align: center;
+}
