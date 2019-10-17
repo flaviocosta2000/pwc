@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ece5b87-0e98-4885-990b-081dcc285dc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 2/ex4/ex2ficha4css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 2/ex4/ex4ficha2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 2/ex4/ex4ficha4-praticas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex 1/F3_Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex2/F3_Ex2_script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex3/New-Super-Mario-Bros-Art-21-400x400.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha 2/ex4/ex2ficha4css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 2/ex4/ex2ficha4css.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +20,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -31,9 +35,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Flávio\WebstormProjects\pwc\Ficha 3\Ex3" />
       <recent name="C:\Users\Flávio\WebstormProjects\pwc\Ficha 2\ex4" />
       <recent name="C:\Users\Flávio\WebstormProjects\pwc\Ficha 2" />
     </key>
@@ -60,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570702859063</updated>
-      <workItem from="1570702863048" duration="5071000" />
+      <workItem from="1570702863048" duration="5294000" />
+      <workItem from="1571307039783" duration="5752000" />
     </task>
     <task id="LOCAL-00001" summary="ficheiros">
       <created>1570702908362</created>
@@ -69,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570702908362</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ficha 2 exercicio 4">
+      <created>1570708143539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570708143539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +94,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -88,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ficheiros" />
-    <option name="LAST_COMMIT_MESSAGE" value="ficheiros" />
+    <MESSAGE value="ficha 2 exercicio 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="ficha 2 exercicio 4" />
   </component>
 </project>
