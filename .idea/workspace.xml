@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ece5b87-0e98-4885-990b-081dcc285dc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex 1/F3_Ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex2/F3_Ex2_script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 3/Ex3/New-Super-Mario-Bros-Art-21-400x400.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ficha 2/ex4/ex2ficha4css.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 2/ex4/ex2ficha4css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3script.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1570702859063</updated>
       <workItem from="1570702863048" duration="5294000" />
-      <workItem from="1571307039783" duration="5752000" />
+      <workItem from="1571307039783" duration="5811000" />
+      <workItem from="1571912334751" duration="3980000" />
     </task>
     <task id="LOCAL-00001" summary="ficheiros">
       <created>1570702908362</created>
@@ -83,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570708143539</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ficha 2 exercicio 4">
+      <created>1571313005897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571313005897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
