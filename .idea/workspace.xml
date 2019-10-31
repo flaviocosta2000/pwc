@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ece5b87-0e98-4885-990b-081dcc285dc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 1/F4_Ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 2/F4_Ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 2/F4_Ex2Script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 3/F4_Ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 3/F4_Ex3Script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pwc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pwc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha 3/Ex3/New-Super-Mario-Bros-Art-21-400x400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 4/Ex 2/New-Super-Mario-Bros-Art-21-400x400.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -34,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Flávio\WebstormProjects\pwc\Ficha 4\Ex 2" />
       <recent name="C:\Users\Flávio\WebstormProjects\pwc\Ficha 3\Ex3" />
       <recent name="C:\Users\Flávio\WebstormProjects\pwc\Ficha 2\ex4" />
       <recent name="C:\Users\Flávio\WebstormProjects\pwc\Ficha 2" />
@@ -63,7 +71,8 @@
       <updated>1570702859063</updated>
       <workItem from="1570702863048" duration="5294000" />
       <workItem from="1571307039783" duration="5811000" />
-      <workItem from="1571912334751" duration="3980000" />
+      <workItem from="1571912334751" duration="4017000" />
+      <workItem from="1572524229792" duration="5313000" />
     </task>
     <task id="LOCAL-00001" summary="ficheiros">
       <created>1570702908362</created>
@@ -86,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571313005897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="atualizacao">
+      <created>1571916681400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571916681400</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ficheiros" />
     <MESSAGE value="ficha 2 exercicio 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ficha 2 exercicio 4" />
+    <MESSAGE value="atualizacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizacao" />
   </component>
 </project>
