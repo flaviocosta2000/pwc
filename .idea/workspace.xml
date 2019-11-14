@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ece5b87-0e98-4885-990b-081dcc285dc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 1/F4_Ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 2/F4_Ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 2/F4_Ex2Script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 3/F4_Ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ficha 4/Ex 3/F4_Ex3Script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 4/Ficha 5/F5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha 4/Ficha 5/F5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/pwc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pwc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 3/Ex3/F3_Ex3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ficha 3/Ex3/New-Super-Mario-Bros-Art-21-400x400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha 4/Ex 2/New-Super-Mario-Bros-Art-21-400x400.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -73,6 +68,10 @@
       <workItem from="1571307039783" duration="5811000" />
       <workItem from="1571912334751" duration="4017000" />
       <workItem from="1572524229792" duration="5313000" />
+      <workItem from="1573128787571" duration="302000" />
+      <workItem from="1573130123494" duration="48000" />
+      <workItem from="1573130183387" duration="17000" />
+      <workItem from="1573733806664" duration="4791000" />
     </task>
     <task id="LOCAL-00001" summary="ficheiros">
       <created>1570702908362</created>
